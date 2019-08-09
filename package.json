@@ -22,7 +22,6 @@
     "url": "https://github.com/pletcher/node-js-npm-lab/issues"
   },
   "homepage": "https://github.com/pletcher/node-js-npm-lab#readme",
-<<<<<<< HEAD
   "dependencies": {
     "lodash": "^4.17.15"
   },
@@ -30,10 +29,8 @@
     "chai": "^3.5.0",
     "mocha": "^2.5.3",
     "mocha-multi": "^0.9.1"
-=======
   "dependencies": {},
   "devDependencies": {
     "mocha": "^6.2.0"
->>>>>>> 08a1bf81027ca8e0df4f9cf5607e86ab067f013b
   }
 }
